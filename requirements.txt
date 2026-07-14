@@ -3,6 +3,7 @@ uvicorn[standard]
 websockets
 flask
 azure-communication-callautomation
+azure-eventgrid
 openai
 requests
 python-dotenv
