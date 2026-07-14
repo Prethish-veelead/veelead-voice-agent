@@ -8,3 +8,4 @@ openai
 requests
 python-dotenv
 sarvamai
+audioop-lts; python_version >= "3.13"
