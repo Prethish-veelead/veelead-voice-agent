@@ -18,3 +18,5 @@ python-dotenv
 requests
 piper-tts
 flask
+sarvamai
+audioop-lts; python_version >= "3.13"
