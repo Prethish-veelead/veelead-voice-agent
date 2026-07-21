@@ -1,10 +1,20 @@
-fastapi
-uvicorn[standard]
-websockets
-flask
-azure-communication-callautomation
-azure-eventgrid
+# fastapi
+# uvicorn[standard]
+# websockets
+# flask
+# azure-communication-callautomation
+# azure-eventgrid
+# openai
+# requests
+# python-dotenv
+# sarvamai
+# faster-whisper
+# # Optional local TTS backends:
+# # TTS
+
+faster-whisper
 openai
-requests
 python-dotenv
-sarvamai
+requests
+piper-tts
+flask

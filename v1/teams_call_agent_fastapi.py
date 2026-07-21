@@ -61,7 +61,7 @@ from azure.communication.callautomation import (
 from dotenv import load_dotenv
 
 # Reuse your existing pipeline, completely unchanged.
-from voice_helpdesk_pipeline import search_knowledge_base, ask_gpt, text_to_speech
+from v1.voice_helpdesk_pipeline import search_knowledge_base, ask_gpt, text_to_speech
 
 load_dotenv()
 
